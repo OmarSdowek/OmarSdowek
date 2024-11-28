@@ -30,11 +30,11 @@ A simple calculator app built using Android Studio.
 
 ---
 
-### 2. **Project Name**
-_Description of another project you've worked on._  
-- **Features:** _List key features._
+### 2. **TIC TAC TOE**
+
+- **Features:** 
 - **Technologies:** _Technologies used._
-- [View Project](https://github.com/OmarSdowek/project-link)
+- [View Project](https://github.com/OmarSdowek/TIC-TAC-TOE-.git)
 
 ---
 
