@@ -3,7 +3,7 @@
 ## About Me 🧑‍💻
 - 🌟 My name is **Omar Sdowek**.
 - 🚀 Passionate about technology, software development, and building awesome projects.
-- 🌱 Currently exploring **Android Development** and sharpening my coding skills.
+- 🌱 Currently exploring **Flutter Developer** and sharpening my coding skills.
 - 💼 Open to collaborations on exciting projects or freelance opportunities.
 - ✉️ You can reach me at **omardowek5@gmail.com**.
 
