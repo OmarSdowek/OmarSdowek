@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-### I’m Omar Sdowek — a passionate Flutter Developer on a mission to build beautiful, scalable mobile apps.
+### I’m Omar Sayed dowek — a passionate Flutter Developer on a mission to build beautiful, scalable mobile apps.
 
 ---
 
